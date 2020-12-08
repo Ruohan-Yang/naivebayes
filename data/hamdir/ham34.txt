@@ -1,0 +1,47 @@
+Dear customer, Hello!
+
+
+
+Thank you for purchasing EZb systems.
+
+
+
+Here is your registration information:
+
+----------------------------------------
+
+Order No.: 6500132
+
+ISO softdisk product name
+
+Language: Simplified Chinese
+
+Version: v9.7.1.3519
+
+Quantity: 1
+
+
+
+----------------------------------------
+
+Note: *) the registration code corresponds to the registration name. Please use this registration name in the registration dialog box (please pay attention to the case).
+
+**) when registering for the first time, please download the software again from the address specified above (when the new version is released in the future, you can download the upgrade directly from the link on our website), and enter the registration name and registration code to complete the registration.
+
+
+
+Best Regards
+
+
+
+EZB Systems, Inc.
+
+The UltraISO Team
+
+
+
+Home page: http://cn.ezbsystems.com
+
+E-mail: reg@ezbsystems.com
+
+technical support: support@ezbsystems.com

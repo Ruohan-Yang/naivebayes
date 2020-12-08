@@ -1,0 +1,8 @@
+The following SSH key was added to your account:
+
+My Windows 10
+
+If you believe this key was added in error, you can remove the key and disable
+access at the following location:
+
+https://github.com/settings/keys

@@ -1,0 +1,1 @@
+Scout APM is application performance monitoring designed to get developers back to coding faster. With tracing logic that ties issues directly back to source code, you can pinpoint N+1 queries, memory bloat, and more in real time before your customers ever see them. Start your free 14-day trial today and get the performance insight you need in less than 4 minutes.

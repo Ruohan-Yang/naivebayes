@@ -1,0 +1,7 @@
+Hello, thank you for registering（ open.weibo.com ）。 This is a registration confirmation email.
+
+Please click the following link to complete the confirmation: http://open.weibo.com/developers/mailcheck.php?token=42317ab7313bfcc643f8bd9741e458ab&backurl=http%3A%2F%2Fopen.weibo.com%2Fapps%2Fnew%3Fsort%3Dmobile
+
+If the link cannot be clicked, please copy the address to the browser and open it directly.
+
+Sina Weibo open platform
